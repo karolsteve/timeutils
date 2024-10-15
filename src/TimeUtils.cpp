@@ -4,7 +4,7 @@
  * Copyright (c) 2022 All rights reserved
  */
 
-#include "../include/timeutils/TimeUtils.hpp"
+#include "TimeUtils.hpp"
 #include <string>
 #include <iomanip>
 #include <ctime>
